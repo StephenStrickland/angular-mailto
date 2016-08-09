@@ -53,3 +53,11 @@ License
 -------
 
 Released under the terms of MIT License. See LICENSE.
+
+This project was based on:
+License: MIT
+angular-mailto
+(c) 2014 Stefan Henze, UpdateZen
+https://github.com/updatezen/angular-mailto
+ 
+
